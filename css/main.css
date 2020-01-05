@@ -186,6 +186,7 @@ menu {
 }
 
 .cart {
+    background-color: white;
     width: fit-content;
     display: block;
     padding: 20px;
